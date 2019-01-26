@@ -12,7 +12,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <afx.h>
-#include <iostream>
+#include <iostream> 
 
 void dataDefine();
 void lineFeed(CString &Buffer);
